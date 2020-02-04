@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+
+#TopSection{
+    min-height: 110vh;
+    background-attachment: fixed;
+    background-image: url("./img/background3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (min-width: 580px){
+    .cardSrjan{
+        width: 50vw;
+    }
+}
+
+@media screen and (max-width: 580px){
+    .cardSrjan{
+        width: 90vw;
+    }
+}
+
+@media screen and (min-width: 1084px){
+    .cardSrjan{
+        width: 40vw;
+    }
+}
+
+@media screen and (min-width: 1352px){
+    .cardSrjan{
+        width: 35vw;
+    }
+}
+
+.aosSrjan1{
+    padding-top: 20vh;
+    padding-left: 5vw;
+}
+
+.aosSrjan2{
+    padding-top: 3vh;
+    padding-left: 5vw;
+}
+
+.aosSrjan3{
+    padding-top: 1vh;
+    padding-left: 5vw;
+}
+
+.aosSrjan4{
+    padding-top: 1vh;
+    padding-left: 5vw;
+}
+
+#logotop{
+    width: 50%;
+}
+
+#cardTop{
+    opacity: .5;
+}
+
+#cardSecond{
+    opacity: 0.8;
+    font-family: 'Modak', cursive;
+}
+
+#hrTop{
+    height: 10px;
+    background-color: white;
+}
+
+#SecondSection{
+    margin-top: -10vh;
+}
+
+#presenter{
+    font-family: 'Playfair Display', serif;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+#events{
+    min-height: 110vh;
+}
+
+.cardpic{
+    width: 100%;
+    border-radius: 20px;
+}
+
+#eventcontainer{
+    background-color: transparent;
+}
+
+.cards{
+    border-radius: 20px;
+    width: 80%;
+}
+
+.card-left{
+    width: 80%
+}
+
+.card-right{    
+    width: 80%
+}
+
+@media screen and (max-width: 772px){
+    .card-info{
+        display: none;
+    }
+
+    .card-left{
+        width: 60%
+    }
+} 
+
+/* Contact Section */
+#contact{
+    margin-top: 10vh;
+}
+
+#contact-theme{
+    min-height: 400px;
+    background-attachment: fixed;
+    background-image: url("./img/background3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#card-contact{
+    margin-top: -100px;
+    margin-bottom: 50px;
+}
+
+#card-contact-body{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
