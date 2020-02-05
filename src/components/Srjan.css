@@ -4,7 +4,7 @@
 #TopSection{
     min-height: 110vh;
     background-attachment: fixed;
-    background-image: url("./img/background3.jpg");
+    background-image: url("./img/bg1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -35,12 +35,12 @@
 }
 
 .aosSrjan1{
-    padding-top: 20vh;
+    padding-top: 5vh;
     padding-left: 5vw;
 }
 
 .aosSrjan2{
-    padding-top: 3vh;
+    padding-top: 5vh;
     padding-left: 5vw;
 }
 
@@ -50,20 +50,44 @@
 }
 
 .aosSrjan4{
-    padding-top: 1vh;
+    padding-top: 5vh;
     padding-left: 5vw;
 }
 
+.date {
+    margin-left: 4px;    
+}
+
+#logo{
+    width: 40%
+}
+
+#card-nirmaan-logo{
+    background-color: rgba(255, 255, 255, 0);
+    width: 100px;
+    border-style: none;
+}
+
+#card-iit-logo{
+    background-color: rgba(255, 255, 255, 0);
+    width: 100px;
+    border-style: none;
+}
+
 #logotop{
-    width: 50%;
+    width: 100%;
+}
+
+#logo_iit{
+    width: 100%;
 }
 
 #cardTop{
-    opacity: .5;
+    opacity: 0.8;
 }
 
 #cardSecond{
-    opacity: 0.8;
+    opacity: 0.9;
     font-family: 'Modak', cursive;
 }
 
@@ -93,6 +117,7 @@
 }
 
 #eventcontainer{
+    margin-top: 10px;
     background-color: transparent;
 }
 
@@ -127,7 +152,7 @@
 #contact-theme{
     min-height: 400px;
     background-attachment: fixed;
-    background-image: url("./img/background3.jpg");
+    background-image: url("./img/bg2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -141,4 +166,12 @@
 #card-contact-body{
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.socialicon{
+    margin-left: 10px;
+}
+
+.avatar{
+    width: 150px
 }

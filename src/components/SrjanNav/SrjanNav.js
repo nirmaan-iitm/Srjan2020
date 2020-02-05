@@ -11,7 +11,7 @@ const SrjanNav = () => {
             <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
                 <Nav.Link href="#events">Events</Nav.Link>
-                <Nav.Link href="/team">Team</Nav.Link>
+                <Nav.Link href="#team">Team</Nav.Link>
                 <Nav.Link href="#contact">Contact</Nav.Link>
             </Nav>
             </Navbar.Collapse>
