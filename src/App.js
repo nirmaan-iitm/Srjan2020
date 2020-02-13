@@ -7,12 +7,10 @@ import Register from './components/Register/Register';
 function App() {
   return (
     <BrowserRouter>
-    <div className="App">
       <Switch>
-        <Route exact path="/" component={Srijan}/>
+        <Route path="/" exact component={Srijan}/>
         <Route path="/register" component={Register}/>
       </Switch>
-    </div>
     </BrowserRouter>
   );
 }
