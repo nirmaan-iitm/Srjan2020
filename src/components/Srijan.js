@@ -249,7 +249,7 @@ class Srjan extends Component{
                             <br></br>
                             <a href="mailto:h.electricwala29@gmail.com"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="email"/></Badge></a>
                             <a href="tel:+918087971052"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
-                            <a href="https://in.linkedin.com/in/huzaifa-electricwala-725634100"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
+                            <a href="https://in.linkedin.com/in/huzaifa-electricwala-725634100"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>in</Badge></a>
                         </Col>
                         <Col xs={6} md={6}>
                             <Image className="avatar" src={amit} rounded />
