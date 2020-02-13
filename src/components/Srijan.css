@@ -50,7 +50,7 @@
 }
 
 .aosSrjan4{
-    padding-top: 5vh;
+    padding-top: 2vh;
     padding-left: 5vw;
 }
 
@@ -134,8 +134,8 @@
     width: 80%
 }
 
-@media screen and (max-width: 772px){
-    .card-info{
+@media screen and (max-width: 767px){
+    .cardpic{
         display: none;
     }
 

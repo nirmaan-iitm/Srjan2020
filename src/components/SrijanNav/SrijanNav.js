@@ -2,10 +2,10 @@ import React from 'react'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 
-const SrjanNav = () => {
+const SrijanNav = () => {
     return(
         <Navbar sticky="top" collapseOnSelect expand="lg" bg="light" variant="light">
-            <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+            <Navbar.Brand href="#home">Srijan</Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto">
@@ -19,4 +19,4 @@ const SrjanNav = () => {
     )
 }
 
-export default SrjanNav
+export default SrijanNav
