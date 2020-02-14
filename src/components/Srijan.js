@@ -79,10 +79,8 @@ class Srjan extends Component{
                     <h3>
                         <Badge className="date" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="500" variant="secondary">21</Badge>
                         <Badge className="date" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="700" variant="secondary">-</Badge>
-                        <Badge className="date" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="900" variant="secondary">23</Badge>
-                    </h3>
-                    <h3>
-                        <Badge data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1100" variant="secondary">Feb'20</Badge>
+                        <Badge className="date" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="900" variant="secondary">23</Badge> &nbsp;
+                        <Badge data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000" variant="secondary">Feb'20</Badge>
                     </h3>
                         <div data-aos="fade-up" 
                         data-aos-duration="1000" 
