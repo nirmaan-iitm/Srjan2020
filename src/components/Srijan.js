@@ -67,9 +67,9 @@ class Srjan extends Component{
                     <div data-aos="fade-right" data-aos-duration="2000" className="aosSrjan3" id="cardSecond">
                     <Card bg="light" className="cardSrjan cardSrjan2">
                         <Card.Body>
-                        <Card.Title><h1>सृजन</h1></Card.Title>
+                        <Card.Title><h1 id="hindi-name">सृजन</h1></Card.Title>
                         <hr></hr>
-                        <Card.Title><h1>Srijan</h1></Card.Title>
+                        <Card.Title><h1 id="english-name">Srijan</h1></Card.Title>
                         </Card.Body>
                     </Card>
                     </div>
