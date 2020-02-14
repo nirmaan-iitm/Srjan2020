@@ -28,6 +28,9 @@ import huzaifa from './img/team/huzaifa.jpg'
 import mahipal from './img/team/mahipal.jpg' 
 import shivam from './img/team/shivam.jpg' 
 import sanjeev from './img/team/sanjeev.jpg' 
+import raj from './img/team/raj.jpg' 
+import garva from './img/team/garva.jpg' 
+import puru from './img/team/puru.jpg' 
 import {SocialIcon} from 'react-social-icons';
 import MaterialIcon from 'material-icons-react';
 
@@ -268,13 +271,13 @@ class Srjan extends Component{
                             <a href="https://www.facebook.com/sunil.dangi.771282"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
                         </Col>
                         <Col xs={6} md={4}>
-                            <Image className="avatar" src={shivam} rounded />
+                            <Image className="avatar" src={raj} rounded />
                             <br></br>
-                            <Badge variant="secondary">Shivam Kumar</Badge>
+                            <Badge variant="secondary">Rajkumar</Badge>
                             <br></br>
-                            <a href="mailto:shivamkumarbairwa@gmail.com"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="email"/></Badge></a>
-                            <a href="tel:+917568015542"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
-                            <a href="https://www.facebook.com/profile.php?id=100010248371323"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
+                            <a href="mailto:b17021@students.iitmandi.ac.in"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="email"/></Badge></a>
+                            <a href="tel:+919112188264"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
+                            <a href="https://www.facebook.com/imrrajsharma"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
                         </Col>
                         <Col xs={6} md={4}>
                             <Image className="avatar" src={vikas} rounded />
@@ -286,6 +289,24 @@ class Srjan extends Component{
                             <a href="https://www.facebook.com/vikasverma.viki.3"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
                         </Col>
                         <Col xs={6} md={4}>
+                            <Image className="avatar" src={shivam} rounded />
+                            <br></br>
+                            <Badge variant="secondary">Shivam Kumar</Badge>
+                            <br></br>
+                            <a href="mailto:shivamkumarbairwa@gmail.com"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="email"/></Badge></a>
+                            <a href="tel:+917568015542"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
+                            <a href="https://www.facebook.com/profile.php?id=100010248371323"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
+                        </Col>
+                        <Col xs={6} md={6}>
+                            <Image className="avatar" src={garva} rounded />
+                            <br></br>
+                            <Badge variant="secondary">Akash Garva</Badge>
+                            <br></br>
+                            <a href="mailto:b17002@students.iitmandi.ac.in"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="email"/></Badge></a>
+                            <a href="tel:+91907985476"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
+                            <a href="https://www.facebook.com/akash.garva.39"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
+                        </Col>
+                        <Col xs={6} md={6}>
                             <Image className="avatar" src={ankit} rounded />
                             <br></br>
                             <Badge variant="secondary">Ankit Gupta</Badge>
@@ -294,7 +315,7 @@ class Srjan extends Component{
                             <a href="tel:+916388792413"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
                             <a href="https://www.facebook.com/profile.php?id=100038335323275"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
                         </Col>
-                        <Col xs={6} md={6}>
+                        <Col xs={6} md={4}>
                             <Image className="avatar" src={vikash} rounded />
                             <br></br>
                             <Badge variant="secondary">Vikash singh</Badge>
@@ -303,7 +324,7 @@ class Srjan extends Component{
                             <a href="tel:+918219690575"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
                             <a href="https://www.facebook.com/vikash.john.397"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
                         </Col>
-                        <Col xs={6} md={6}>
+                        <Col xs={6} md={4}>
                             <Image className="avatar" src={amitjr} rounded />
                             <br></br>
                             <Badge variant="secondary">Amit Kumar Jatav</Badge>
@@ -311,6 +332,15 @@ class Srjan extends Component{
                             <a href="mailto:b18005@students.iitmandi.ac.in"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="email"/></Badge></a>
                             <a href="tel:+917877434200"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
                             <a href="https://www.facebook.com/amit.jatav.10690"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>
+                        </Col>
+                        <Col xs={6} md={4}>
+                            <Image className="avatar" src={puru} rounded />
+                            <br></br>
+                            <Badge variant="secondary">Purushottam Sinha</Badge>
+                            <br></br>
+                            <a href="mailto:b17053@students.iitmandi.ac.in"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="email"/></Badge></a>
+                            <a href="tel:+917355414418"><Badge style={{verticalAlign: "middle"}}><MaterialIcon icon="call"/></Badge></a>
+                            <a href="https://www.facebook.com/purushottam.sinha.31"><Badge variant="secondary" style={{verticalAlign: "middle", padding: 4.5 , paddingLeft: 6, paddingRight: 6, fontSize: 15}}>f</Badge></a>                        
                         </Col>
                     </Row>
                     </Container>
