@@ -35,24 +35,61 @@
     }
 }
 
+@media screen and (min-width: 400px) and (min-height: 740px){
 .aosSrjan1{
     padding-top: 5vh;
+    margin-bottom: 2vh;
     padding-left: 5vw;
 }
 
 .aosSrjan2{
     padding-top: 5vh;
+    margin-bottom: 2vh;
     padding-left: 5vw;
 }
 
 .aosSrjan3{
     padding-top: 1vh;
+    margin-bottom: 2vh;
     padding-left: 5vw;
 }
 
 .aosSrjan4{
     padding-top: 2vh;
+    margin-bottom: 2vh;
     padding-left: 5vw;
+}
+}
+
+@media screen and (max-width: 400px) and (max-height: 740px){
+    .aosSrjan1{
+        padding-top: 2vh;
+        padding-left: 5vw;
+    }
+    
+    .aosSrjan2{
+        padding-top: 2vh;
+        padding-left: 5vw;
+    }
+    
+    .aosSrjan3{
+        padding-top: 2vh;
+        padding-left: 5vw;
+    }
+    
+    .aosSrjan4{
+        padding-top: 2vh;
+        padding-left: 5vw;
+    }
+    #hindi-name{
+        font-size: 25px;
+        font-weight: 400;
+    }
+    
+    #english-name{
+        font-size: 25px;
+        font-weight: 400;
+    }
 }
 
 .date {
@@ -96,7 +133,7 @@
 }
 
 #english-name{
-    font-family: 'Dancing Script', cursive;;
+    font-family: 'Dancing Script', cursive;
 }
 
 #hrTop{
